@@ -26,6 +26,7 @@ namespace ExamRobocontest
 
         }
         
+
         static bool IsBool(long n)
         {
             if (n < 2)
